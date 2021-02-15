@@ -31,7 +31,7 @@ Availability: *Free*
 **FedEx**  
 Futura Bold  
 Match: *Partial*  
-Availability *Yes*  
+Availability *Free*  
 
 ---
 
