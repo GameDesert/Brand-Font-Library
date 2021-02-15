@@ -3,7 +3,7 @@
 ### Please do not deface, damage, or in any way negatively edit this repository. It is here to provide information for r/sbubby creators and others who are interested in logoswapping or logo spoofing.
 
 ### Introduction
-The Brand Font Library was set up for the r/sbubby community as a repository of information regarding the typefaces used by certain brands to make everyone’s life easier. I put in a few pieces of information into the library when I first set it up, but I encourage everyone to add more and expand the knowledge base. However, this repository is open to anyone who chooses to use it.
+The Brand Font Library was set up for the r/sbubby community as a repository of information regarding the typefaces used by certain brands to make everyone’s life easier. I put in a few pieces of information into the library when I first set it up, but I encourage everyone to add more and expand the knowledge base. This repository is open to anyone who chooses to use it.
 
 ### Usage
 To use the Brand Font Library, simply open the document labelled "Font Info" and search for the brand you require, and its corresponding info. Sometimes a URL will be provided to the download website for the typeface, but most of the time, a name will be provided which you can then search in a search engine of your choice.  
