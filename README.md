@@ -12,6 +12,7 @@ To use the Brand Font Library, simply open the document labelled "Font Info" and
 The term "Match" is used to describe how similar a typeface is to the original logo/brand. Due to the nature of this library, there is no option for "No" match as then that typeface wouldn't belong here.  
 - Yes: The typeface is a near-perfect match and is almost indistinguishable from the original. May require some modifications for custom characters.  
 - Partial: The typeface shares many identical features with the original. Characters may require some slight & simple editing to match the original, or you may have to swap some characters out for the originals.  
+  
 "Availability" is used to describe how easy it is to download a copy of the typeface in a usable format such as OpenType (.OTF) or TrueType (.TTF).  
 - Free: The typeface is easily available for free on a trusted website such as Google Fonts.  
 - Open Source: The typeface and its source files (such as other type formats or Vector formats) are freely available online.  
