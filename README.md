@@ -8,7 +8,7 @@ The Brand Font Library was set up for the r/sbubby community as a repository of 
 ### Usage
 To use the Brand Font Library, simply open the document labelled "Font Info" and search for the brand you require, and its corresponding info. Sometimes a URL will be provided to the download website for the typeface, but most of the time, a name will be provided which you can then search in a search engine of your choice.
 >#### Tip:  
-> **Most pieces of brand info will be provided in this format:**  
+> **Manual entry format:**  
 >  
 >**Brand Name** | `In the format: **[Brand Name]** without the square brackets to make it bold.`  
 >Typeface Name | `In the format: [Typeface Name] without the square brackets.`  
@@ -17,4 +17,4 @@ To use the Brand Font Library, simply open the document labelled "Font Info" and
 >URL: *https://website.web* | `In the format: URL: *Website URL* to make it in italics.` **OPTIONAL**  
 >Notes: *text* | `In the format: Notes: *text* to make it in italics. You can use this field to add any notes about obtaining the typeface.` **OPTIONAL**
 >  
->*Each line must be followed by 2 Spaces (`  `) to create a newline. Each section must be preceeded by a blank line, and followed by a blank line, and then 3 hyphens (`---`) to create a line rule.*
+>*Each line must be followed by 2 Spaces (`  `) to create a newline. Each section must be followed by a blank line, then 3 hyphens (`---`), and then another blank line to create a line rule.*
