@@ -17,4 +17,4 @@ To use the Brand Font Library, simply open the document labelled "Font Info" and
 >URL: *https://website.web* | `In the format: URL: *Website URL* to make it in italics.` **OPTIONAL**  
 >Notes: *text* | `In the format: Notes: *text* to make it in italics. You can use this field to add any notes about obtaining the typeface.` **OPTIONAL**
 >  
->*Each line must be followed by 2 Spaces (`  `) to create a newline. Each section must be followed by a blank line, then 3 hyphens (`---`), and then another blank line to create a line rule.*
+>*Each line must be followed by 2 Spaces (`  `) to create a newline. Each section must be preceeded by a blank line, then 3 hyphens (`---`), and then another blank line to create a line rule.*
