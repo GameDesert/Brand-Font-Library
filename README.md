@@ -16,7 +16,7 @@ If you want to contribute your own fonts and information to the Brand Font Libra
 >**Brand Name** | `In the format: **[Brand Name]** without the square brackets to make it bold.`  
 >Typeface Name | `In the format: [Typeface Name] without the square brackets.`  
 >Match: *Yes* | `In the format: Match: *Yes/Partial* to make it in italics.`  
->Availability: *Free* | `In the format: Availability: *Free/Shady Website/Easier to Find Alternative/Account Restricted* to make it in italics.`  
+>Availability: *Free* | `In the format: Availability: *Free/Open Source/Shady Website/Easier to Find Alternative/Account Restricted* to make it in italics.`  
 >URL: *https://website.web* | `In the format: URL: *Website URL* to make it in italics.` **OPTIONAL**  
 >Notes: *text* | `In the format: Notes: *text* to make it in italics. You can use this field to add any notes about obtaining the typeface.` **OPTIONAL**
 >  
