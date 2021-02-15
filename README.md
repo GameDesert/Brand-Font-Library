@@ -12,3 +12,5 @@ To use the Brand Font Library, simply open the document labelled "Font Info" and
 >Match: *Partial* | `In the format: Match: *Yes/No/Partial* to make it in italics.`  
 >Availability: *Free* | `In the format: Availability: *Free/Shady Website/Easier to Find Alternative/Account Restricted* to make it in italics.`  
 >URL: *https://website.web* | `In the format: URL: *Website URL* to make it in italics.` **OPTIONAL**  
+>  
+>*Each line must be followed by 2 Spaces (`  `) to create a newline.*
