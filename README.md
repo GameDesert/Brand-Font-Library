@@ -9,7 +9,7 @@ The Brand Font Library was set up for the r/sbubby community as a repository of 
 To use the Brand Font Library, simply open the document labelled "Font Info" and search for the brand you require, and its corresponding info. Sometimes a URL will be provided to the download website for the typeface, but most of the time, a name will be provided which you can then search in a search engine of your choice.  
 
 ### Contribution
-If you want to contribute your own fonts and information to the Brand Font Library, you need to generate a small paragraph using one of the formats provided. You will then need to append this paragraph onto the end of Font_Info.md to add it to the list. You can generate one of these info paragraph by entering the font and brand details into the form at [kotla.eu/Brand-Font-Library/index.html](https://kotla.eu/Brand-Font-Library/index.html) or by writing it up manually using the format in the below information panel.
+If you want to contribute your own fonts and information to the Brand Font Library, you need to generate a small paragraph using one of the formats provided. You will then need to append this paragraph onto the end of Font_Info.md to add it to the list. You can generate one of these info paragraph by entering the font and brand details into the form at [kotla.eu/Brand-Font-Library/website](https://kotla.eu/Brand-Font-Library/website/index.html) or by writing it up manually using the format in the below information panel.
 >#### Tip:  
 > **Manual entry format:**  
 >  
