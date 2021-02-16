@@ -35,4 +35,18 @@ If you want to contribute your own fonts and information to the Brand Font Libra
 >*Each line must be followed by 2 Spaces (`  `) to create a newline. Each section must be preceeded by a blank line, then 3 hyphens (`---`), and then another blank line to create a line rule.*
 
 ### Disclaimer
-I am absolutely not responsible for any damage, harm, or any negative effects that may come from using any of the information provided in this repository. This is an educational tool and all typefaces and brands belong to their respective holders.
+I am absolutely not responsible for any damage, harm, or any negative effects that may come from using any of the information provided in this repository. This is an educational tool and all typefaces and brands belong to their respective holders.  
+
+### Tips & Tricks
+#### Manual Entry:
+**Brand Name** | `In the format: **[Brand Name]** without the square brackets to make it bold.`  
+Typeface Name | `In the format: [Typeface Name] without the square brackets.`  
+Match: *Yes* | `In the format: Match: *Yes/Partial* to make it in italics.`  
+Availability: *Free* | `In the format: Availability: *Free/Open Source/Shady Website/Easier to Find Alternative/Account Restricted* to make it in italics.`  
+URL: *https://website.web* | `In the format: URL: *Website URL* to make it in italics.` **OPTIONAL**  
+Notes: *text* | `In the format: Notes: *text* to make it in italics. You can use this field to add any notes about obtaining the typeface.` **OPTIONAL**
+  
+*Each line must be followed by 2 Spaces (`  `) to create a newline. Each section must be preceeded by a blank line, then 3 hyphens (`---`), and then another blank line to create a line rule.*  
+
+#### Extracting a Typeface from a Website:
+Firstly, open a web browser ([Firefox](https://www.mozilla.org/en-US/firefox/new/) is recommended) and open the Devtools Inspector (`Q` on Firefox). Next, navigate to the `Fonts` panel and click `All Fonts On Page`. Find the font you are looking for, and click the copy button next to its URL. After that, paste the URL into your browser and download the provided file. Finally, use a website such as [CloudConvert](https://cloudconvert.com/) to convert the, (presumably) `.WOFF` file to a usable `.OTF` or `.TTF` file and just install it on your computer.
