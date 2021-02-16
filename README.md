@@ -17,7 +17,7 @@ The term "Match" is used to describe how similar a typeface is to the original l
 - Free: The typeface is easily available for free on a trusted website such as Google Fonts.  
 - Open Source: The typeface and its source files (such as other type formats or Vector formats) are freely available online.  
 - Shady Website: The font is freely available from some less-than-reputable sites. It is not recommended you download things from these sites without very good computer protection. You can never be *too* careful.  
-- Easier to Find Alternative: The typeface is very complicated to get your hands on but is still free. May require downloading from company website using Dev Tools (Firefox recommended for this, use "Fonts" tab). As the name suggests, it is just easier to find a similar-looking alternative.  
+- Easier to Find Alternative: The typeface is very complicated to get your hands on but is still free. May require downloading from company website using Dev Tools (Firefox recommended for this, use "Fonts" tab) and the instructions provided [here](https://github.com/GameDesert/Brand-Font-Library/blob/main/README.md#extracting-a-typeface-from-a-website). As the name suggests, it is just easier to find a similar-looking alternative.  
 - Account Restricted: Some websites require creating a Press account to access brand assets. I don't really know what you get, so you probably shouldn't bother.  
 
 ### Contribution
