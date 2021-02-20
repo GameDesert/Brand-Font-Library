@@ -9,8 +9,8 @@
 <h2>Input all your information and then click [Update and Copy] to generate the text to append to the end of Font_Info.md.</h2>
 <fieldset>
 <legend>Input</legend>
-<input type="text" id="Brand-Name" name="Brand-Name" placeholder="Brand Name (required)" required value="" maxlength="20"><br>
-<input type="text" id="Font-Name" name="Font-Name" placeholder="Font Name (required)" required value="" maxlength="20"><br>
+<input type="text" id="Brand-Name" name="Brand-Name" placeholder="Brand Name (required)" required value="" maxlength="50"><br>
+<input type="text" id="Font-Name" name="Font-Name" placeholder="Font Name (required)" required value="" maxlength="50"><br>
 <label for="match">Match: </label>
 <select id="match" name="match" required>
   <option value="Yes">Yes</option>
@@ -24,8 +24,8 @@
   <option value="Easier to Find Alternative">Easier to Find Alternative</option>
   <option value="Account Restricted">Account Restricted</option>
 </select><br>
-<input type="URL" id="Font-URL" name="Font-URL" placeholder="Font URL (optional)" value="" maxlength="50"><br>
-<textarea rows="2" cols="30" name="Notes" placeholder="Notes (optional)" id="Notes" maxlength="60"></textarea>
+<input type="URL" id="Font-URL" name="Font-URL" placeholder="Font URL (optional)" value="" maxlength="100"><br>
+<textarea rows="2" cols="30" name="Notes" placeholder="Notes (optional)" id="Notes" maxlength="1000"></textarea>
 <button onclick="process()">Update and Copy</button>
 </fieldset>
 <fieldset>
