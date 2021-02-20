@@ -70,5 +70,5 @@ URL: *https://tfl.gov.uk/*
 Taco Bell  
 Match: *Yes*  
 Availability: *Shady Website*  
-URL: *https://thefontsmagazine.com/download/taco-bell-fo*  
+URL: *https://thefontsmagazine.com/download/taco-bell-font*  
 Notes: *Direct download URL. Source page here: `https://thefontsmagazine.com/font/taco-bell-font/`.*  
