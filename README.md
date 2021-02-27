@@ -1,4 +1,4 @@
-[![Donate](https://img.shields.io/static/v1?label=Donate%20Bitcoin&message=Help%20out%20and%20donate&color=yellow&style=flat&logo=bitcoin)](bitcoin:bc1q7hzf2y2raxe3g5ldsq9kr6e8r3xsha4mesfzkg?label=Donate%20to%20GameDesert)
+![Donate](https://img.shields.io/static/v1?label=Donate%20Bitcoin&message=Help%20out%20and%20donate&color=yellow&style=flat&logo=bitcoin)
 
 # Brand Font Library
 
