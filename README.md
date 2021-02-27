@@ -1,4 +1,4 @@
-![Donate](https://img.shields.io/static/v1?label=Donate%20Bitcoin&message=Help%20out%20and%20donate&color=yellow&style=flat&logo=bitcoin)
+[![Donate](https://img.shields.io/static/v1?label=Donate%20Bitcoin&message=Help%20out%20and%20donate&color=yellow&style=flat&logo=bitcoin)](https://kotla.eu/donate/btc.html)
 
 # Brand Font Library
 
