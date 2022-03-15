@@ -80,3 +80,11 @@ You2013
 Match: *Yes*  
 Availability: *Free*  
 URL: *https://www.cufonfonts.com/font/you2013*  
+
+---
+
+**Initial D**  
+Impact  
+Match: *Yes*  
+Availability: *Free*  
+Notes: *Needs to be slanted to the right approx. 30 degrees*  
